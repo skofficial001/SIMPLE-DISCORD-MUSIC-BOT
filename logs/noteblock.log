@@ -1,0 +1,17 @@
+[2024-05-31T12:14:22.931] [INFO] NOTEBLOCK - CLIENT READY WITH 3 GUILDS
+[2024-05-31T12:14:24.091] [INFO] NOTEBLOCK - NODE [NODE-MAIN-2] CONNECTED
+[2024-05-31T12:14:24.093] [WARN] NOTEBLOCK - NODE [NODE-MAIN-2] ERROR Error: Unexpected op "ready" with data: [object Object]
+    at Node.message (C:\Users\VINAY KUMAR\Downloads\noteblock-ACCEPT\node_modules\erela.js\dist\structures\Node.js:239:54)
+    at WebSocket.emit (node:events:514:28)
+    at Receiver.receiverOnMessage (C:\Users\VINAY KUMAR\Downloads\noteblock-ACCEPT\node_modules\ws\lib\websocket.js:1209:20)
+    at Receiver.emit (node:events:514:28)
+    at C:\Users\VINAY KUMAR\Downloads\noteblock-ACCEPT\node_modules\ws\lib\receiver.js:608:16
+    at node:internal/process/task_queues:140:7
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at AsyncResource.runMicrotask (node:internal/process/task_queues:137:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-05-31T12:14:29.541] [INFO] NOTEBLOCK - [not_yours143#0] USING [HELP] COMMANDS
+[2024-05-31T12:14:41.505] [INFO] NOTEBLOCK - [not_yours143#0] USING [PLAY] COMMANDS
+[2024-05-31T12:15:58.447] [INFO] NOTEBLOCK - [not_yours143#0] USING [PLAY] COMMANDS
+[2024-05-31T12:18:23.749] [INFO] NOTEBLOCK - [not_yours143#0] USING [STOP] COMMANDS
+[2024-05-31T12:18:23.749] [INFO] NOTEBLOCK - [not_yours143#0] USING [STOP] COMMANDS
