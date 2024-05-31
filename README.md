@@ -1,6 +1,6 @@
-<a href="https://github.com/KagChi/noteblock"> <img align="right" src="https://cdn.discordapp.com/avatars/584333920875708426/8a4ed8376a2c612e30270783b74b6901.jpg?size=2048" width="150"></a>
+<a href="hhttps://github.com/TheExtremezCoder/SIMPLE-DISCORD-MUSIC-BOT"> <img align="right" src="https://cdn.discordapp.com/avatars/584333920875708426/8a4ed8376a2c612e30270783b74b6901.jpg?size=2048" width="150"></a>
 
-> [@noteblock](https://github.com/KagChi/noteblock) (An open-source music bot based on lavalink.) 🤖: Version: 1.3.0.
+> [@TEC](hhttps://github.com/TheExtremezCoder/SIMPLE-DISCORD-MUSIC-BOT) (An open-source music bot based on lavalink.) 🤖: Version: 1.3.0.
 
 🎵 | Listen to a music with style! Feature rich with high quality music from YouTube/Soundcloud.
 
@@ -35,7 +35,7 @@ if you want to use the slash commands do:
 ## Replit
  - Go to [replit.com](https://replit.com) and create account
  - Click `Create` and then `Import From Github`
- - Paste the link E.g `https://github.com/KagChi/noteblock`
+ - Paste the link E.g `hhttps://github.com/TheExtremezCoder/SIMPLE-DISCORD-MUSIC-BOT`
  - get your bot token [Discord Developer Portal](https://discord.com/developers/applications)
  - paste your token to `.env` with variable `DISCORD_TOKEN= yOuR nIcE tOkEn`
  - run the code
@@ -43,7 +43,7 @@ if you want to use the slash commands do:
 ## Glitch
  - Go to [glitch.com](https://glitch.com) and create account
  - Click `New Project` and then `Import From Github`
- - Paste the link E.g `https://github.com/KagChi/noteblock`
+ - Paste the link E.g `hhttps://github.com/TheExtremezCoder/SIMPLE-DISCORD-MUSIC-BOT`
  - get your bot token [Discord Developer Portal](https://discord.com/developers/applications)
  - paste your token to `.env` with variable `DISCORD_TOKEN= yOuR nIcE tOkEn`
  
