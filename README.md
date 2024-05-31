@@ -1,3 +1,5 @@
+
+![family.png](family.png)
 <a href="hhttps://github.com/TheExtremezCoder/SIMPLE-DISCORD-MUSIC-BOT"> </a>
 > [@TEC](hhttps://github.com/TheExtremezCoder/SIMPLE-DISCORD-MUSIC-BOT) (An open-source music bot based on lavalink.) 🤖: Version: 1.3.0.
 
